@@ -15,7 +15,7 @@ The goal of this repo is to:
 ---
 
 ## 🛠 Tech Stack
-- **React** (v18+)
+- **React** (v19+)
 - **JavaScript (ES6+)**
 - **Node.js & npm**
 - **CSS / Styled Components**
